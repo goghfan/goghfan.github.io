@@ -5,8 +5,8 @@
     
     <entry>
       <title>我的第一篇博客</title>
-      <link href="/2022/06/30/wo-de-bo-ke/"/>
-      <url>/2022/06/30/wo-de-bo-ke/</url>
+      <link href="/2022/07/01/wo-de-bo-ke/"/>
+      <url>/2022/07/01/wo-de-bo-ke/</url>
       
         <content type="html"><![CDATA[<p>这是第一篇测试博客，查看网站对md文件的支持是否符合要求</p><h2 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h2><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span> <span class="token comment">#代码测试</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
       
