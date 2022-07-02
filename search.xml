@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<p>这是第一篇测试博客，查看网站对md文件的支持是否符合要求</p><h2 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h2><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span> <span class="token comment">#代码测试</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>《厚黑学》<br>作者：谷照明<br><a href="http://www.qisuu.com整理制作,并提供下载/">www.qisuu.com整理制作，并提供下载</a></p><p>《厚黑大全》导读<br>谷照明</p><p>任何当代文化只有汲取传统文化的优秀成分，才能成长壮大。对传统文化的评价就是对中国历史的评价。对待传统文化要有科学的态度，既要反对民族虚无主义，又要反对国粹主义。自五四运动以来展开丁关于中国传统文化优劣的论战，至今仍在继续。论战本身不是目的，其目的是为了从宏观七更准确地把握传统文化的总体特征和精神风貌，从而把民族历史更快地推向前进。中国传统文化既以历史悠久、成就辉煌而著称于世，又以弊端丛生而遗害无穷。从某种意义上说，揭示传统文化的缺点比挖掘传统文化的优点更发人深省。要了解传统文化的疯疾，辑有李宗吾一系列著作的《厚黑大全》是一本不可多得的好书。　</p><p>1992年岁末于北京大学</p>]]></content>
       
       
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
       
     </entry>
     
