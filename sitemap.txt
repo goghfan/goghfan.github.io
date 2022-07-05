@@ -14,5 +14,5 @@ http://gaofanblog.top/tags/Hexo/
 http://gaofanblog.top/tags/%E5%8D%9A%E5%AE%A2/
 http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/
 http://gaofanblog.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E8%AE%B0/
-http://gaofanblog.top/categories/%E6%B5%8B%E8%AF%95/
 http://gaofanblog.top/categories/Hexo/
+http://gaofanblog.top/categories/%E6%B5%8B%E8%AF%95/
