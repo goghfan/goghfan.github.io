@@ -3250,13 +3250,13 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://fastly.jsdelivr.net/npm/akilar-candyassets/image/cover1.webp');
+  background: url('https://img1.baidu.com/it/u=1302466697,2313273402&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://fastly.jsdelivr.net/npm/akilar-candyassets/image/cover5.webp');
+  background: url('https://img0.baidu.com/it/u=204749956,3751758379&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://fastly.jsdelivr.net/npm/akilar-candyassets/image/cover6.webp');
+  background: url('https://img1.baidu.com/it/u=3696803513,2394504668&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500');
 }
 li.categoryBar-list-item:nth-child(4) {
   background: #abcdef;
