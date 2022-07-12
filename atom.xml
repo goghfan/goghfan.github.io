@@ -6,7 +6,7 @@
   <link href="http://gaofanblog.top/atom.xml" rel="self"/>
   
   <link href="http://gaofanblog.top/"/>
-  <updated>2022-07-05T10:57:39.971Z</updated>
+  <updated>2022-07-12T02:45:24.084Z</updated>
   <id>http://gaofanblog.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022-7-12 日记</title>
+    <link href="http://gaofanblog.top/post/49295.html"/>
+    <id>http://gaofanblog.top/post/49295.html</id>
+    <published>2022-07-12T02:08:59.000Z</published>
+    <updated>2022-07-12T02:45:24.084Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一篇日记&quot;&gt;&lt;a href=&quot;#这是一篇日记&quot; class=&quot;headerlink&quot; title=&quot;这是一篇日记&quot;&gt;&lt;/a&gt;这是一篇日记&lt;/h1&gt;&lt;h2 id=&quot;反思&quot;&gt;&lt;a href=&quot;#反思&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>博客搭建日记</title>
@@ -39,11 +64,11 @@
     <category term="Hexo" scheme="http://gaofanblog.top/categories/Hexo/"/>
     
     
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
     <category term="Hexo" scheme="http://gaofanblog.top/tags/Hexo/"/>
     
     <category term="博客" scheme="http://gaofanblog.top/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
