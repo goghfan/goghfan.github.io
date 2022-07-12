@@ -3259,12 +3259,15 @@ li.categoryBar-list-item:nth-child(3) {
   background: url('https://img1.baidu.com/it/u=3696803513,2394504668&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: #abcdef;
+  background: url('https://img1.baidu.com/it/u=2853449425,1731492533&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: rgba(45,67,89,0.7);
+  background: #abcdef;
 }
 li.categoryBar-list-item:nth-child(6) {
+  background: rgba(45,67,89,0.7);
+}
+li.categoryBar-list-item:nth-child(7) {
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
   background: -moz-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
   background: -o-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
