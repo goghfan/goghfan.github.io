@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>但为君故 の blog</title>
+  
+  
+  <link href="http://gaofanblog.top/atom.xml" rel="self"/>
+  
+  <link href="http://gaofanblog.top/"/>
+  <updated>2022-08-13T07:38:33.996Z</updated>
+  <id>http://gaofanblog.top/</id>
+  
+  <author>
+    <name>但为君故</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022-8-13离谱bug报告</title>
+    <link href="http://gaofanblog.top/post/21061.html"/>
+    <id>http://gaofanblog.top/post/21061.html</id>
+    <published>2022-08-13T07:32:41.000Z</published>
+    <updated>2022-08-13T07:38:33.996Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;离谱BUG分析报告&quot;&gt;&lt;a href=&quot;#离谱BUG分析报告&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="离谱bug" scheme="http://gaofanblog.top/tags/%E7%A6%BB%E8%B0%B1bug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>李宏毅机器学习笔记</title>
+    <link href="http://gaofanblog.top/post/6532.html"/>
+    <id>http://gaofanblog.top/post/6532.html</id>
+    <published>2022-08-13T02:52:46.000Z</published>
+    <updated>2022-08-13T06:46:18.887Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;零-前言&quot;&gt;&lt;a href=&quot;#零-前言&quot; class=&quot;headerlink&quot; title=&quot;零 前言&quot;&gt;&lt;/a&gt;零 前言&lt;/h1&gt;&lt;p&gt;这是对李宏毅机器学习2021的课程笔记，一共40节课，15个大主题。&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="李宏毅机器学习" scheme="http://gaofanblog.top/categories/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="机器学习" scheme="http://gaofanblog.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="李宏毅" scheme="http://gaofanblog.top/tags/%E6%9D%8E%E5%AE%8F%E6%AF%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>交叉熵与机器学习</title>
+    <link href="http://gaofanblog.top/post/4698.html"/>
+    <id>http://gaofanblog.top/post/4698.html</id>
+    <published>2022-07-30T02:38:43.000Z</published>
+    <updated>2022-08-13T06:46:18.883Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;交叉熵（Cross</summary>
+        
+      
+    
+    
+    
+    <category term="统计学习" scheme="http://gaofanblog.top/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="机器学习" scheme="http://gaofanblog.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="统计学习" scheme="http://gaofanblog.top/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>极大似然估计和贝叶斯估计</title>
+    <link href="http://gaofanblog.top/post/58164.html"/>
+    <id>http://gaofanblog.top/post/58164.html</id>
+    <published>2022-07-25T05:42:41.000Z</published>
+    <updated>2022-07-25T10:32:48.416Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;极大似然估计与贝叶斯估计&quot;&gt;&lt;a href=&quot;#极大似然估计与贝叶斯估计&quot; class=&quot;headerlink&quot; title=&quot;极大似然估计与贝叶斯估计&quot;&gt;&lt;/a&gt;极大似然估计与贝叶斯估计&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="统计学习" scheme="http://gaofanblog.top/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="机器学习" scheme="http://gaofanblog.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="统计学习" scheme="http://gaofanblog.top/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022-7-20 日记</title>
+    <link href="http://gaofanblog.top/post/59674.html"/>
+    <id>http://gaofanblog.top/post/59674.html</id>
+    <published>2022-07-20T03:27:21.000Z</published>
+    <updated>2022-07-20T03:48:12.438Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一篇日记&quot;&gt;&lt;a href=&quot;#这是一篇日记&quot; class=&quot;headerlink&quot; title=&quot;这是一篇日记&quot;&gt;&lt;/a&gt;这是一篇日记&lt;/h1&gt;&lt;h2 id=&quot;心情&quot;&gt;&lt;a href=&quot;#心情&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论文笔记1</title>
+    <link href="http://gaofanblog.top/post/42504.html"/>
+    <id>http://gaofanblog.top/post/42504.html</id>
+    <published>2022-07-20T03:13:06.000Z</published>
+    <updated>2022-07-20T03:15:49.497Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;On-the-Principles-of-Parsimony-and-Self-Consistency-for-the-Emergence-of-Intelligence（论智能产生的简约和自洽原则）&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="http://gaofanblog.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="http://gaofanblog.top/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022-7-12 日记</title>
+    <link href="http://gaofanblog.top/post/49295.html"/>
+    <id>http://gaofanblog.top/post/49295.html</id>
+    <published>2022-07-12T02:08:59.000Z</published>
+    <updated>2022-07-12T02:50:53.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一篇日记&quot;&gt;&lt;a href=&quot;#这是一篇日记&quot; class=&quot;headerlink&quot; title=&quot;这是一篇日记&quot;&gt;&lt;/a&gt;这是一篇日记&lt;/h1&gt;&lt;h2 id=&quot;反思&quot;&gt;&lt;a href=&quot;#反思&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客搭建日记</title>
+    <link href="http://gaofanblog.top/post/44750.html"/>
+    <id>http://gaofanblog.top/post/44750.html</id>
+    <published>2022-07-04T06:15:13.000Z</published>
+    <updated>2022-07-05T10:57:39.971Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;2022年7月2日&quot;&gt;&lt;a href=&quot;#2022年7月2日&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="博客搭建日记" scheme="http://gaofanblog.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="Hexo" scheme="http://gaofanblog.top/categories/Hexo/"/>
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="Hexo" scheme="http://gaofanblog.top/tags/Hexo/"/>
+    
+    <category term="博客" scheme="http://gaofanblog.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试测试</title>
+    <link href="http://gaofanblog.top/post/63786.html"/>
+    <id>http://gaofanblog.top/post/63786.html</id>
+    <published>2022-07-04T00:58:02.000Z</published>
+    <updated>2022-07-30T02:57:17.646Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是第一篇测试博客，查看网站对md文件的支持是否符合要求&lt;/p&gt;
+&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h2 id=&quot;标签测试&quot;&gt;&lt;a href=&quot;#标签测试&quot; class=&quot;headerlink&quot; title=&quot;标签测试&quot;&gt;&lt;/a&gt;标签测试&lt;/h2&gt;&lt;h3 id=&quot;样式一&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="http://gaofanblog.top/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
+  
+</feed>
