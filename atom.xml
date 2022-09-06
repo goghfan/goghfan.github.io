@@ -6,7 +6,7 @@
   <link href="http://gaofanblog.top/atom.xml" rel="self"/>
   
   <link href="http://gaofanblog.top/"/>
-  <updated>2022-09-01T01:57:32.718Z</updated>
+  <updated>2022-09-06T07:53:07.855Z</updated>
   <id>http://gaofanblog.top/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2022-9-6-日记</title>
+    <link href="http://gaofanblog.top/post/13886.html"/>
+    <id>http://gaofanblog.top/post/13886.html</id>
+    <published>2022-09-06T07:16:51.000Z</published>
+    <updated>2022-09-06T07:53:07.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;小BUG修复&quot;&gt;&lt;a href=&quot;#小BUG修复&quot; class=&quot;headerlink&quot; title=&quot;小BUG修复&quot;&gt;&lt;/a&gt;小BUG修复&lt;/h1&gt;&lt;p&gt;修复了部分封面图出现404 not found的小bug&lt;/p&gt;
+&lt;h1 id=&quot;日记&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="http://gaofanblog.top/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022-9-1_日记</title>
     <link href="http://gaofanblog.top/post/55085.html"/>
     <id>http://gaofanblog.top/post/55085.html</id>
     <published>2022-09-01T01:51:31.000Z</published>
-    <updated>2022-09-01T01:57:32.718Z</updated>
+    <updated>2022-09-06T07:32:52.881Z</updated>
     
     
       
@@ -42,7 +68,7 @@
     <link href="http://gaofanblog.top/post/49621.html"/>
     <id>http://gaofanblog.top/post/49621.html</id>
     <published>2022-08-27T14:10:44.000Z</published>
-    <updated>2022-08-27T14:37:58.402Z</updated>
+    <updated>2022-09-06T07:33:36.039Z</updated>
     
     
       
@@ -63,7 +89,7 @@
     <link href="http://gaofanblog.top/post/21061.html"/>
     <id>http://gaofanblog.top/post/21061.html</id>
     <published>2022-08-13T07:32:41.000Z</published>
-    <updated>2022-08-13T07:38:51.629Z</updated>
+    <updated>2022-09-06T07:33:49.750Z</updated>
     
     
       
@@ -118,7 +144,7 @@
     <link href="http://gaofanblog.top/post/4698.html"/>
     <id>http://gaofanblog.top/post/4698.html</id>
     <published>2022-07-30T02:38:43.000Z</published>
-    <updated>2022-08-13T06:46:18.883Z</updated>
+    <updated>2022-09-06T07:31:47.479Z</updated>
     
     
       
